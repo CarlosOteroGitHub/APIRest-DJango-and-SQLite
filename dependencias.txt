@@ -1,0 +1,19 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° SublimeText.
+
+° Python.
+
+° SQLite.
+
+° JSON.
+
+° DJango.
+
+° DJangoRestFramework.
+
+° Postman.

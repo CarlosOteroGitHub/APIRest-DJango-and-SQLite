@@ -1,0 +1,32 @@
+========================================================== COMANDOS ==========================================================
+
+° pip install virtualenv: Comando utilizado para crear entornos virtuales con Python.
+
+° virtualenv [nombre_entorno_vitual]: Comando utilizado para crear un entorno virtual.
+
+° C:\ruta\al\entorno\virtual\Scripts\activate.bat: Comando utilizado para activar el entorno virtual en Windows.
+
+° pip install django: Comando utilizado para instalar la ultima versión de Django.
+
+° pip install djangorestframework: Comando utilizado para instalar la ultima versión de Rest Framework de Django.
+
+° pip freeze: Comando utilizado para listar todas las dependencias de Python instaladas.
+
+° django-admin startproject [nombre_proyecto]: Comando para inicializar un proyecto Django (Para el presente proyecto en nombre se llama API).
+
+° python manage.py createsuperuser: Comando que crea un superusuario para la base de datos.
+	Usuario: carlos
+	Email: carlos.otero.r12@gmail.com
+	Pass: carlos
+
+° django-admin startapp [nombre_aplicacion]: Comando que crea una aplicación o módulo Django (Para el presente proyecto en nombre se llama video).
+
+° python manage.py check: Comando utilizado para verificar que no existan errores de sintaxis en los archivos del proyecto Python.
+
+° python manage.py makemigrations: Comando que crea los modelos especificados en la base de datos.
+
+° python manage.py migrate: Comando que crea la base de datos del proyecto.
+
+° python manage.py runserver: Comando utilizado para hacer correr el servidor de Django. 
+	El servidor corre por defecto en el navegador con la dirección: http://localhost:8000/admin/
+	Para generar consultas con los objetos API serializados: http://localhost:8000/videos/
